@@ -44,5 +44,5 @@
 
 
 ## Do you like my work? Help me with donnation 💕
- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)]()
+ [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xDoritos)
 
