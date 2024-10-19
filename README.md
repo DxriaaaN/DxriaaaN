@@ -1,7 +1,8 @@
+![](https://komarev.com/ghpvc/?username=DxriaaaN)
 ## 
 
 
- #  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJraDY3YjlsbTMyc3d5ZjE5bzc2enRqdzIwdzE1NXdyOG51ZzY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l5oVq0XFG3ytYSlgXe/giphy.gif" width="150"/> <color>Hi There ❤️ I'm xDoritos ![](https://komarev.com/ghpvc/?username=DxriaaaN)
+ #  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJraDY3YjlsbTMyc3d5ZjE5bzc2enRqdzIwdzE1NXdyOG51ZzY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l5oVq0XFG3ytYSlgXe/giphy.gif" width="150"/> <color>Hi There ❤️ I'm xDoritos 
 
 
 ![Banner de xDoritos](xDoritos.gif)
