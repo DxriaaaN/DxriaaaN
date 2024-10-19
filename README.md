@@ -40,7 +40,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DxriaaaN&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxriaaaN&layout=compact&theme=tokyonight)
 
 
 ## Do you like my work? Help me with donnation 💕
