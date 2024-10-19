@@ -38,7 +38,9 @@
 ## How to contact me 😊:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/432215088686956565) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a5f5c8a226a16d3f?viewMode=1)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxriaaaN&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxriaaaN&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 
 ## Do you like my work? Help me with donnation 💕
