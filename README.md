@@ -10,7 +10,7 @@
 # About Me 🙋‍♂️: 
 
 ### Personal Information 
-⚡| I'm Mateo Rodriguez, I am 22 years old and I am currently living in Bariloche, Argentina. I work as a CRM specialist and technical support manager, with future plans to develop my skills as a software developer.
+⚡| I work as a CRM specialist and technical support manager, with future plans to develop my skills as a software developer.
 
 ⚡| In my free time, I enjoy creating community bots for Discord that address various needs, such as playing music and interacting with APIs.
 
