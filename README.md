@@ -4,7 +4,7 @@
 ---
 ## 💫 About Me  
 
-✨ **AI Automation Engineer, building AI agents and custom systems for businesses.
+✨ AI Automation Engineer, building AI agents and custom systems for businesses.
 
 ✨ Full-stack developer with 4+ years of experience: React, TypeScript, Node.js, Express & Supabase. I love building dashboards with ShadCN + Tailwind.
 
