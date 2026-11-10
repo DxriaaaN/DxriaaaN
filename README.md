@@ -3,10 +3,11 @@
 ### Hi there ❤️ I'm xDoritos  
 ---
 ## 💫 About Me  
-✨ Automation Engineer specialized in n8n, Make.com & AI API integrations (OpenAI, Gemini, Claude).  
-✨ Full-stack developer — passionate about Discord bot development and crafting smooth digital experiences.  
-✨ CRM specialist & technical support manager.  
-✨ Creator of +25 published PreMiD presences and community Discord bots.  
+
+✨ **AI Automation Engineer, building AI agents and custom systems for businesses.
+✨ Full-stack developer with 4+ years of experience: React, TypeScript, Node.js, Express & Supabase. I love building dashboards with ShadCN + Tailwind.
+✨ Building internal tooling: automated VPS deployments with Easypanel, content pipelines & outbound prospecting automations.
+✨ Creator of +25 published PreMiD presences and community Discord bots.
 
 ---
 ## ⚡ Tech Stack  
